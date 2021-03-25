@@ -1,7 +1,7 @@
 Homebrew-asana
 ===========================================
 
-This formula provides [asana command line client](https://github.com/thash/asana).
+This formula provides [asana command line client](https://github.com/ajmarroquin/asana).
 
 
 How to use this formula
